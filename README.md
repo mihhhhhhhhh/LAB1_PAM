@@ -1,4 +1,4 @@
-# flutter_application_1
+# LAB1_PAM
 
 A new Flutter project.
 
